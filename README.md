@@ -1,4 +1,4 @@
-# Open source practice [![](https://github.com/jisellenguyen/open-source-lab-practice/workflows/test    s/badge.svg)](https://github.com/jisellenguyen/open-source-lab-practice/actions?query=workflow%3Atest    s)
+# Open source practice [![](https://github.com/jisellenguyen/open-source-lab-practice/workflows/tests/badge.svg)](https://github.com/jisellenguyen/open-source-lab-practice/actions?query=workflow%3Atests)
 
 
 
