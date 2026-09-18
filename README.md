@@ -1,4 +1,6 @@
-# Open source practice
+# Open source practice [![](https://github.com/jisellenguyen/open-source-lab-practice/workflows/test    s/badge.svg)](https://github.com/jisellenguyen/open-source-lab-practice/actions?query=workflow%3Atest    s)
+
+
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
